@@ -1,7 +1,10 @@
 .header{
     background-color: #f5f5f5;
 }
-
+.logo
+{
+  margin-left: 4px;
+}
 
 h1{
     color:beige;
